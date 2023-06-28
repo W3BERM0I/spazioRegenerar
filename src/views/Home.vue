@@ -1,7 +1,11 @@
 <template>
-  <HelloWorld />
+  <h1>home</h1>
+  <location />
 </template>
 
 <script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
+import location from "@/views/landingPage/location.vue";
+components: {
+  location;
+}
 </script>

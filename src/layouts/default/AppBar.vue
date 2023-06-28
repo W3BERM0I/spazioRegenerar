@@ -1,13 +1,9 @@
 <template>
-  <v-app-bar flat>
-    <v-app-bar-title>
-      <v-icon icon="mdi-circle-slice-4" />
-
-      Base Preset
-    </v-app-bar-title>
-  </v-app-bar>
+  <v-container>
+    <h1>header</h1>
+  </v-container>
 </template>
 
 <script setup>
-  //
+//
 </script>
