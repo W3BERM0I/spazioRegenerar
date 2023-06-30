@@ -1,7 +1,12 @@
 <template>
-  <v-container>
+  <div>
     <h1>header</h1>
-  </v-container>
+    <div>
+      <p>Exemplo</p>
+      <p>Exemplo</p>
+      <p>Exemplo</p>
+    </div>
+  </div>
 </template>
 
 <script setup>

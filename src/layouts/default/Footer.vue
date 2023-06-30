@@ -1,7 +1,7 @@
 <template>
   <v-bottom-navigation :elevation="5">
     <v-btn value="recent">
-      <v-icon icon="md:info"></v-icon>
+      <v-icon>mdi-location-exit</v-icon>
 
       Sobre
     </v-btn>

@@ -6,7 +6,7 @@
 //
 </script>
 
-<style scoped>
+<style>
 :root {
   --bege: #fcedd7;
   --azulFraco: #5994af;
