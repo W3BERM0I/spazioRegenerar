@@ -1,29 +1,7 @@
 <template>
-  <v-bottom-navigation :elevation="5">
-    <v-btn value="recent">
-      <v-icon>mdi-location-exit</v-icon>
-
-      Sobre
-    </v-btn>
-
-    <v-btn value="favorites">
-      <v-icon>mdi-heart</v-icon>
-
-      Serviços
-    </v-btn>
-
-    <v-btn value="nearby">
-      <v-icon>mdi-map-marker</v-icon>
-
-      Contato
-    </v-btn>
-
-    <v-btn value="nearby">
-      <v-icon>mdi-map-marker</v-icon>
-
-      Localização
-    </v-btn>
-  </v-bottom-navigation>
+  <div class="footer">
+    <p>contato</p>
+  </div>
 </template>
 
 <script>
@@ -31,4 +9,12 @@ export default {};
 </script>
 
 <style>
+.footer {
+  background: var(--azulFraco);
+  background: linear-gradient(
+    90deg,
+    var(--azulFraco) 0%,
+    var(--roxoFraco) 100%
+  );
+}
 </style>

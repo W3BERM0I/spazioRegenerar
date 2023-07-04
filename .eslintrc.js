@@ -8,7 +8,7 @@ module.exports = {
   rules: {
     'vue/multi-word-component-names': 'off',
     quotes: ["error", "single"],
-    indent: ["error", 4],
+    indent: ["error", 1],
     "comma-spacing": ["error", { before: false, after: true }],
     "vue/no-multi-spaces": 0,
     'vue/comment-directive': 'off'

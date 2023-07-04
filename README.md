@@ -2,6 +2,8 @@
 
 ## Project setup
 
+https://dribbble.com/shots/3158226/attachments/3158226-Profile-cards?mode=media
+
 ```
 # yarn
 yarn
